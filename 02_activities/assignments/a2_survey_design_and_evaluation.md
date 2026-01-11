@@ -40,30 +40,86 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+Within the Strategic Human Resources Management literature, there is a well known relationship between the use of High Performance Work Systems (HPWS) and Employee Satisfaction. On a paper published in 2018, Schmidt and Pohler explore the role of Leadership attitudes and behaviours not only as a mediator of that relationship (HPWS-employee satisfaction), but also as one of the underlying causes of both the use of HPWS in the workplace and employee satisfaction. Employee satisfaction is positive correlated with affective committment, and committment is generally correlated with (lower) turnover.
+Given the turnover issue within my company is happening accross different departments, but more often for entry and lower-level positions, the purpose of my survey is to undestand Leadership attitudes and behaviours of those who directly manage the employees at entry or low-level positions, where high turnover was observed. I will focus on mapping leadership values, attitudes, and knowledge of High Performance Work Practices. I expect to find relevant gaps that my team can later focus on when designing appropriate training targeted at this level of workers, that is, for the managers of employees where the high turnover levels were observed. 
+
+
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+First, it is important to define well the meaning of entry level and low level positions within my firm. This is likely a clear concept within the context of my organization; the promp only describes entry or low-level positions, so for the purpose of this exercise, I am assuming that the definition is clear, and if not, that clarifying it would be a preliminary step. 
+
+Target population: Firm employees who have held a management position where they directly manage employees in entry level or low-level positions for at least 12 months AND who had at least one employee on their team leaving the firm within the past 6 months.
+
+Sampling frame: List of all employees who are currently on the firm in a management position AND that held a management position 12 months ago. 
+
+Observational units: I will use a non-probabality survey sample technique, more specifically, I will use purposive sampling, to select from the list or current managers who have been managers for at least 12 months (Sampling frame described above) the ones who have managed entry level position workers OR low-level position workers AND who had employees under their supervision leaving the firm within the past 6 months. The survey will be sent to all managers who meet the inclusion criteria, so the managers who meet the inclusion criteria described above are my observational units.
+
+Sampling units: Because I am sampling individuals, my sampling units are the same as my observation units, i.e., managers who have at least 12 months of tenure and who had at least one entry level or low-level employee leaving the firm within the past 6 months. 
+
+
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+The questions are listed below, but I would like to point out a few important factos:
+
+A) The survey would be anonymous and have a unique identifier to prevent a manager to answer more than once. 
+
+B) For the purpose of the exercise, I will use generic questions about leadership, but in a real life scenario, I would tie questions to specific values and performance indicators that are important to the specific firm where I work (e.g, I would ask if the managers has met all their team members for the mandatory mid year review, or filled out the career projection goals on the firms portal, etc.)
+
+C) As often as possible, I would provide numerical options to select as answers, or an open field to type numbers and make sure odd entries were not permitted by design (e.g., "twenty hours" would not be a valid answer for question 1, but "20" would)
+
+D) The survey would start with disclaimers about being safe, anonymous and voluntary, and asking managers to answer honestly
+
+E) It will be clearly stated that "Employees" in this survey mean employees under the respondent's direct supervision
+
+1. How many hours of training have you attended in the past 12 months, approximately? 
+(Purpose: understand if managers are receiving enough training)
+
+2. On average, how often do you have one-on-one meetings with each of your employees in 1 month?
+(Purpose: understand if managers spend time with their employees in general)
+
+3. On average, would you say you spend more time providing support to more senior employees, or lower level employees?
+    Options: Low-level employees, senior employees
+(Purpose: understand if managers are spending more or less time with low-level employees)
+
+4. On average, how many times a week do you feel that you need to work outside your standard working hours to complete tasks?
+(Purpose: understand if managers have been overworked)
+
+5. How familiar are you with our organization culture and values 
+    Options: Not at all familiar, somewhat familiar, very familiar
+(Purpose: understand if managers may not be too familiar with organizational culture, which might spillover to low satisfaction from employees under their supervision)
+
+5. Do you encourage your employees to pursue engage in non-mandatory training activities within of their working hours?
+(Purpose: understand if managers view training as an important professional activity that should be part of employees routine)
+
+5. Do you encourage your employees to pursue engage in non-mandatory training activities outside of their working hours?
+(Purpose: understand if managers value training, but believe engaging in non mandatory training activities within working hours would be against company's policy - which is not the case in my firm)
+
+6. Have you discussed career progression and aspirations with all your team members at least once within the last six months?
+    Options: Yes, No. 
+
+7. How difficult is to for your employees to meet with you outside regularly schedule meetings or meetings that you booked yourself?
+    Options: Very hard - I have too many employees and little free time ; somewhat hard - they can request a meeting and I am generally able to meet them within 1-2 weeks; somewhat easy - I can generally squeeze them in within a week; very easy - I have an open door policy, or I can see them within a day.
+(Purpose: understand manager's availability for employees)
+
+8. How often do your employees actually come to your office for unplanned meetings or to discuss unexpected issues?
+    Options: Every day; at least once a week; at least once a month; occasionally; rarely or never
+
+9. How often do you provide feedback to your employees? Select all that apply:
+    Options: During their regular mid-year end-year review meetings; whenever they ask; whenever they do something good; whenever they do something bad; whenever they specifically ask for it; Never.
+(Purpose: assess the importance managers attribute to feedback providing and whether they do it as often as needed)
+
+10. Do you encourage your employees to help each other? Select all that apply:
+    Options: Yes, the more senior ones should help the low-level ones; Yes, all employees are encouraged to help each other any time they are asked to; Yes, as long as they limit their interaction to work-related issues during working hours; No, I prefer they ask me directly; No, they each work on different tasks that do not overlap.
+(Purpose: assess whether manager values collaboration between employees)
+
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,7 +127,21 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+1. Sample type
+2. Sample size
+3. Target population
+4. Sampling frame
+5. Survey mode(s) 
+6. Timeline
+7. Response rate
+8. Weights
+9. Data processing
+10. Cleaning, imputation, etc
+11. Sources of error
+12. Limitations, known biases, etc
+13. Link to documentation and any additional sources used
+
+
 ```
 
 ## Rubric
