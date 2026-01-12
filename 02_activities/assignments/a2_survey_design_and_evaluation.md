@@ -129,7 +129,7 @@ Identify and describe survey features:
 ```
 1. Sample type: Multi-stage, stratified sample followed by simple random sampling; then, there is a purposively sampling phase (they call it "rejective sampling") where all people who are volunteers will do a long interview, and a final random sampling step is applied over the ones who are not volunteers (they are randomly divided into two groups)
 
-2. Sample size: 
+2. Sample size: Considering 41.9% of the 40,000 people who received the survey responded, the sample size was 16,760 units.
 
 3. Target population: "The target population for the GSS Giving, volunteering and participating includes all persons 15 years of age and older living in the ten provinces of Canada. It excludes full-time (residing for more than six months) residents of institutions." - source: General Social Survey - Giving, Volunteering and Participating (GSS GVP) website, link listed on item 13
 
