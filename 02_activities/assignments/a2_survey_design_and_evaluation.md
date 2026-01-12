@@ -127,20 +127,38 @@ E) It will be clearly stated that "Employees" in this survey mean employees unde
 Identify and describe survey features:
 
 ```
-1. Sample type
-2. Sample size
-3. Target population
-4. Sampling frame
-5. Survey mode(s) 
-6. Timeline
-7. Response rate
-8. Weights
-9. Data processing
-10. Cleaning, imputation, etc
-11. Sources of error
-12. Limitations, known biases, etc
-13. Link to documentation and any additional sources used
+1. Sample type: Multi-stage, stratified sample followed by simple random sampling; then, there is a purposively sampling phase (they call it "rejective sampling") where all people who are volunteers will do a long interview, and a final random sampling step is applied over the ones who are not volunteers (they are randomly divided into two groups)
 
+2. Sample size: 
+
+3. Target population: "The target population for the GSS Giving, volunteering and participating includes all persons 15 years of age and older living in the ten provinces of Canada. It excludes full-time (residing for more than six months) residents of institutions." - source: General Social Survey - Giving, Volunteering and Participating (GSS GVP) website, link listed on item 13
+
+4. Sampling frame: a combination of landline and cellular telephone numbers from the Census and various administrative sources with Statistics Canada's dwelling frame. 
+
+5. Survey mode(s): electronic questionnaire or CATI (computer assisted telephone interviewing)
+
+6. Timeline: This survey happens every 5 years, from September to December. In particular, this one happened between 2018-09-04 and 2018-12-28. It refers to the 12 months preceding the interview date.
+
+7. Response rate: 41.9%
+
+8. Weights: I can't find the microdata file WGHT_PER where this information is expected to be. They use an example of 1 person representing 50 on the main page, but it is not clear if that is the weight for the present survey.
+
+9. Data processing: Processing used the Social Survey Processing Environment (SSPE) set of generalized processing steps and utilities, and used a structured environment to monitor the processing of data, ensuring that best practices and harmonized business processes were followed. A few edits were performed at various stages and a series of checks were done to ensure the consistency of survey data (e.g., checking the respondent's age against the respodent's birth date)
+
+10. Cleaning, imputation, etc: Missing information of one respondent were completed using the "nearest" donor records, that is, the response of the other respondent (donor) who had the most similar characteristics with the respondent. When more than one donor had the same score (equaly similar to the respondent), one donor was randomly selected to complete missing data. Overall, they believe that the imputation process worked well and helped to fill incomplete responses with the experience of other respondents with similar or identical characteristics. 
+
+11. Sources of error: 
+Sampling error- "estimates based on a sample will vary from sample to sample, and typically they will be different from the results that would have been obtained from a complete census" - source: General Social Survey - Giving, Volunteering and Participating (GSS GVP) website, link listed on item 13
+
+Non-sampling error- possible types of non-sampling error are imperfect coverage (differences between target population and surveyed population), non response, response errors, and processing errors
+
+12. Limitations, known biases, etc: In addition to the issues pointed out as sources of error, some adjustments were made compared to previous surveys to redue bias. One of them was getting income data and household composition from administrative sources. For example, income information was obtained by linking to the tax data of respondents (unless they objected to the linkage). Personal income data were obtained from the 2017 T1FF for 81.9% of respondents, and family income was obtained through direct linkage with a variable from the T1FF that corresponds with census family income.
+
+The authors also mentioned that bias was minimized by "using a well-tested questionnaire, a proven methodology, specialized interviewers and strict quality control". - source: General Social Survey - Giving, Volunteering and Participating (GSS GVP) website, link listed on item 13
+
+13. Link to documentation and any additional sources used: 
+https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=796234
++ Class materials and notes for concepts.
 
 ```
 
